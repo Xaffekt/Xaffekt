@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi 👋, I am a frontend developer going through Scrimba's Frontend Development course
+
+### Most of the repositories you will see so far are things worked on during the course
+
 
 <!--
 **Xaffekt/Xaffekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

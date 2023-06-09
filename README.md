@@ -1,4 +1,5 @@
 Hi 👋, I am a frontend developer going through the learning pains 🫠
+### Most of the repositories you will see so far are things worked on during the course
 
 ## What im doing
 - Scrimba's Frontend Development course
@@ -6,11 +7,7 @@ Hi 👋, I am a frontend developer going through the learning pains 🫠
 - dabling in basic backend knowledge
 
 
-### Most of the repositories you will see so far are things worked on during the course
-
-
-
-### More about me
+## More about me
 - Located in CA, 21 years old
 - I love to play all kinds of video games, currently sinking my teeth into diablo 4
 - I like anime, hells paradise is my favorite for this season
